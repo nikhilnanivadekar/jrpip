@@ -1,7 +1,7 @@
 # JrPip - Java Remote Proxy Invocation Provider
 
 JrPip provides remote method invocation using the Java binary serialization protocol. 
-The payload is streamed as the objects are being serialzied, which significantly improves
+The payload is streamed as the objects are being serialized, which significantly improves
 speed and reduces memory consumption for large payloads. It can easily handle multi-GB 
 payloads without multi-GB memory buffers.
 
